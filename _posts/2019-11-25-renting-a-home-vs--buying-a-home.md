@@ -32,8 +32,10 @@ However, if you’re moving to a new area where you know you’ll live for three
 
 If you were to rent a home for three years and pay $2,000 per month, you’re guaranteed to lose $72,000. On the other hand, it’s very rare in the Greater New Orleans Area that you’ll ever lose $72,000 on any home that you purchase. Put another way, renting over the long-term is a guarantee that you’ll lose money, whereas purchasing a home is a guarantee that you’ll make money over the long-term.&nbsp;
 
-**Here’s my home buying guarantee:** If you buy a home from me and aren’t satisfied with it after 12 months, then I’ll help you sell it for free.
+**Here’s my home buying guarantee:** If you buy a home from me and aren’t satisfied with it after 12 months, then I’ll help you sell it for free.\*
 
-\*I also have a guarantee for home sellers: If I don’t sell your home in 45 days or fewer, I’ll give you $1,500.\*
+I also have a home seller guarantee: If I don't sell your home in 45 days or less, I'll give you $1500.\*
+
+*\*Conditions apply.*
 
 If you’d like to talk more about the subject of renting versus buying or any other real estate topic, don’t hesitate to reach out to me. I’d love to speak with you.
