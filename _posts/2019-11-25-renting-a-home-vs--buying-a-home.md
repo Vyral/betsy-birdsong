@@ -34,7 +34,7 @@ If you were to rent a home for three years and pay $2,000 per month, you’re gu
 
 **Here’s my home buying guarantee:** If you buy a home from me and aren’t satisfied with it after 12 months, then I’ll help you sell it for free.\*
 
-I also have a home seller guarantee: If I don't sell your home in 45 days or less, I'll give you $1500.\*
+**I also have a home seller guarantee:** If I don't sell your home in 45 days or less, I'll give you $1500.\*
 
 *\*Conditions apply.*
 
