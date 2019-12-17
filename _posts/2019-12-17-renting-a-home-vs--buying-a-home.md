@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Renting a Home vs. Buying a Home
-date: 2019-11-25 00:00:00
+date: 2019-12-17 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
