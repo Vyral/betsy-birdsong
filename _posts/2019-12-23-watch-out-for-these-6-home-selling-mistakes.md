@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Watch Out for These 6 Home-Selling Mistakes
-date: 2019-12-05 00:00:00
+date: 2019-12-23 00:00:00
 tags:
 excerpt: >-
   Today I’ll discuss the six biggest mistakes that homeowners make when trying
