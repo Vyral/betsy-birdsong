@@ -38,3 +38,6 @@ If you’re planning to sell your house, be sure to avoid making these six commo
 As a final note to my home sellers: I guarantee that if you list your house with me, I’ll have it sold within 45 days or else I’ll pay you $1,500. I’m very confident about what we do here at The Birdsong Group.
 
 If you have any questions about selling your home or real estate in general, don’t hesitate to reach out to me. I’d love to hear from you.
+
+
+https://vyralmarketing.s3.amazonaws.com/Betsy+Birdsong/Screen+Shot+2020-01-03+at+10.56.56+AM.png
