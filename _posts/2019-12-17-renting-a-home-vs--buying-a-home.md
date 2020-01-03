@@ -39,3 +39,5 @@ If you were to rent a home for three years and pay $2,000 per month, you’re gu
 *\*Conditions apply.*
 
 If you’d like to talk more about the subject of renting versus buying or any other real estate topic, don’t hesitate to reach out to me. I’d love to speak with you.
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/betsy-with-usp-1.jpg){: width="1004" height="285"}
