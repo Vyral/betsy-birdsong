@@ -39,5 +39,4 @@ As a final note to my home sellers: I guarantee that if you list your house with
 
 If you have any questions about selling your home or real estate in general, don’t hesitate to reach out to me. I’d love to hear from you.
 
-
-https://vyralmarketing.s3.amazonaws.com/Betsy+Birdsong/Screen+Shot+2020-01-03+at+10.56.56+AM.png
+![](/uploads/betsy-with-usp.jpg){: width="1004" height="285"}
