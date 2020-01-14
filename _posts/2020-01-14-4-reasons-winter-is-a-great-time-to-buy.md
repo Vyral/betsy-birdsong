@@ -36,3 +36,5 @@ That being said, here are four reasons buying in winter can actually be a wise d
 **4\. Homes close faster.** Lenders, too, have more availability in winter, allowing them to devote more time and energy to your closing process.
 
 So if you are waiting for the spring but are otherwise ready to buy, I encourage you to act now. It’s a great time to buy, and there are plenty of beautiful homes listed in our area. My team and I would love to help you get a good deal on the right home; call or send me an email.
+
+![](/uploads/betsy-with-usp.jpg){: width="1004" height="285"}
