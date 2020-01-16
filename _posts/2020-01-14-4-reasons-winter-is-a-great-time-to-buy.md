@@ -27,11 +27,11 @@ That being said, here are four reasons buying in winter can actually be a wise d
 
 **1\. Less competition.** With fewer buyers looking, you’ll face fewer multiple-offer situations. The months of May, June, July, and August make up 40% of existing home sales, while January and February combined account for just 6%. Use that to your advantage\!
 
-<br>**2\. Motivated sellers.** People who list in winter do so out of necessity, and therefore, they are more willing to negotiate deals to get their homes sold.
-
-&nbsp;<br>**3\. Hiring movers is easier.** They’re usually not as busy during this time of year as they are in spring and summer. May is actually the worst month to try hiring movers; not only are you fighting all of the busy buyers and sellers, but you’re also fighting the college students who also need to hire movers.
+**2\. Motivated sellers.** People who list in winter do so out of necessity, and therefore, they are more willing to negotiate deals to get their homes sold.
 
 {% include pullquote.html %}
+
+**3\. Hiring movers is easier.** They’re usually not as busy during this time of year as they are in spring and summer. May is actually the worst month to try hiring movers; not only are you fighting all of the busy buyers and sellers, but you’re also fighting the college students who also need to hire movers.
 
 **4\. Homes close faster.** Lenders, too, have more availability in winter, allowing them to devote more time and energy to your closing process.
 
