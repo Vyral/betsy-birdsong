@@ -38,4 +38,4 @@ In the meantime, don’t hesitate to reach out to us with any questions you have
 
 \*Terms and conditions apply.
 
-&nbsp;
+![](/uploads/betsy-with-usp-1.jpg){: width="1004" height="285"}
