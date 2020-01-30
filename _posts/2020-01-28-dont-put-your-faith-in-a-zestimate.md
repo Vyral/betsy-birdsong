@@ -5,7 +5,8 @@ date: 2020-01-28 00:00:00
 tags:
   - Real Estate
 excerpt: Don’t put your trust in Zillow’s Zestimates. Here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Betsy+Birdsong/Dont+Put+Your+Faith+in+a+Zestimate.mp4
 pullquote: Zestimates can be tweaked and manipulated.
 enclosure_type: video/mp4
 enclosure_time:
