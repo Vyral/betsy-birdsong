@@ -10,7 +10,7 @@ pullquote: Zestimates can be tweaked and manipulated.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/zillow-yt.jpg
+youtube_alternate_image: /uploads/zillow-yt-1.jpg
 youtube_code: bEAnjXRiiPY
 ---
 
