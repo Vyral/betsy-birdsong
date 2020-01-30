@@ -20,7 +20,7 @@ Should you Trust Zillow’s Zestimates? No, you shouldn’t.
 
 According to Zillow’s own website, **a Zestimate is merely a starting point** when you’re thinking about a home’s value. The estimate is generated based on public and private data. The public data may be accurate, but the private data might not be.
 
-If you’re a home seller who knows that people are going to see your listing on Zillow, wouldn’t it benefit you if the Zestimate comes in a little bit higher? Of course, it would\! Some agents out there actually help people increase their Zestimate to make it seem as though their home is worth more than it really is.
+If you’re a home seller who knows that people are going to see your listing on Zillow, wouldn’t it benefit you if the Zestimate comes in a little bit higher? Of course it would\! Some agents out there actually help people increase their Zestimate to make it seem as though their home is worth more than it really is.
 
 {% include pullquote.html %}
 
@@ -30,7 +30,7 @@ Zillow even admits that **75% of the homes in San Diego County have Zestimates t
 
 Think of Zillow like you would WebMD. If you’re just curious about a health condition, you can look on WebMD to see what might be causing it. However, if you’re serious about your health, you’d go to a doctor instead, right? It’s the same thing with real estate: **If you want to know what a house is actually worth, you need a real estate professional to help you.**
 
-If you’re a homeowner interested in getting an estimate of your property’s value, send me your Zestimate. I’ll do a comparative market analysis on your home and compare that estimate to your Zestimate—we’ll see how accurate your Zestimate is. We guarantee to our home sellers that we’ll sell your home within 45 days or fewer, or else we’ll pay you $1,500.\*
+If you’re a homeowner interested in getting an estimate of your property’s value, send me your Zestimate. I’ll do a comparative market analysis on your home and compare that estimate to your Zestimate—we’ll see how accurate your Zestimate is. We guarantee to our home sellers that we’ll sell your home within 45 days or less, or else we’ll pay you $1,500.\*
 
 The Birdsong Group would also love to hear from potential homebuyers\! Remember, if you buy a home with us and you decide in the first 12 months that you don’t like it, then we’ll sell it for you for free.\*
 
