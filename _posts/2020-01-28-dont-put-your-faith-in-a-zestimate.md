@@ -21,7 +21,7 @@ Should you Trust Zillow’s Zestimates? No, you shouldn’t.
 
 According to Zillow’s own website, **a Zestimate is merely a starting point** when you’re thinking about a home’s value. The estimate is generated based on public and private data. The public data may be accurate, but the private data might not be.
 
-If you’re a home seller who knows that people are going to see your listing on Zillow, wouldn’t it benefit you if the Zestimate comes in a little bit higher? Of course it would\! Some agents out there actually help people increase their Zestimate to make it seem as though their home is worth more than it really is.
+If you’re a home seller who knows that people are going to see your listing on Zillow, wouldn’t it benefit you if the Zestimate comes in a little bit higher? Of course it would\!
 
 {% include pullquote.html %}
 
