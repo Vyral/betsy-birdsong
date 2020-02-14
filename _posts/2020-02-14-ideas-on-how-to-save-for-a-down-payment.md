@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ideas on How to Save for a Down Payment
-date:
+date: 2020-02-14 15:19:32
 tags:
 excerpt: >-
   Today I’m offering some suggestions on how to budget better and save more for
@@ -42,5 +42,3 @@ Here are some points to help you start thinking about ways you can save your mon
 **10\. Save your tax refund.** It’s that time of year again to enjoy a nice refund, but don’t be persuaded to spend that money right away. Put it into savings toward your home.&nbsp;
 
 As always, if you have any questions about the home buying process, please reach out to me. I’m happy to have a more in-depth conversation with you and work with you to achieve your real estate goals.&nbsp;
-
-&nbsp;
