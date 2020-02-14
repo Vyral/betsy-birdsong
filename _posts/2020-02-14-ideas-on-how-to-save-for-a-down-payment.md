@@ -17,7 +17,7 @@ youtube_code: jV5qWMg-jxQ
 
 {% include youtube.html %}
 
-For many potential homebuyers, the largest perceived hurdle is coming up with an adequate down payment. Spending hard-earned money on a down payment is one of the best financial decisions you can make. I know many people don’t often think of their personal residence as an investment, but it is. The difficulty, of course, lies in saving enough money for that investment.&nbsp;
+For many potential homebuyers, the largest perceived hurdle is coming up with an adequate down payment. Spending hard-earned money on a down payment is one of the best financial decisions you can make. I know many people don’t often think of their residence as an investment, but it is. The difficulty, of course, lies in saving enough money for that investment.&nbsp;
 
 Here are some points to help you start thinking about ways you can save your money:&nbsp;
 
@@ -29,11 +29,11 @@ Here are some points to help you start thinking about ways you can save your mon
 
 **4\. Drop your gym membership.** If you’re a faithful gym-goer, then this point isn’t for you. This one is directed at those who have memberships but seldom take advantage of them.&nbsp;
 
-**5\. Sell items.** Do you just have a ton of stuff? If you’re being brutally honest, how much of it could you part ways with? Maybe it’s time to unload some of it and get some money back in the process.&nbsp;
+**5\. Sell items.** Do you just have a ton of stuff? If you’re being brutally honest, how much of it could you eliminate? Maybe it’s time to unload some of it and get some money back in the process.&nbsp;
 
-**6\. Downsize where you’re living.** If you won’t be buying a home for another year or so, evaluate where you currently live. Maybe there is a less expensive temporary housing option for you. Don’t throw away more money in rent than you have to.&nbsp;
+**6\. Downsize where you’re living.** If you won’t be buying a home for another year or so, evaluate where you currently live. Maybe there is a less expensive temporary housing option for you. Don’t throw away more money in rent than necessary.
 
-**7\. Get a sidegig.** Getting a second job may be the quickest, simplest way to earn extra money. You don’t have to do it forever—just leading up to house purchase.&nbsp;
+**7\. Get a second job.** Getting a second job may be the quickest, simplest way to earn extra money. You don’t have to do it forever—just leading up to the house purchase.&nbsp;
 
 **8\. Open a high-yield savings account.** These aren’t something you can get by walking into your local bank branch. You’ll need to investigate online where you can open up one of these accounts to earn a little bit more than your average savings account.&nbsp;
 
@@ -41,4 +41,4 @@ Here are some points to help you start thinking about ways you can save your mon
 
 **10\. Save your tax refund.** It’s that time of year again to enjoy a nice refund, but don’t be persuaded to spend that money right away. Put it into savings toward your home.&nbsp;
 
-As always, if you have any questions about the home buying process, please reach out to me. I’m happy to have a more in-depth conversation with you and work with you to achieve your real estate goals.&nbsp;
+As always, if you have any questions about the home buying process, please reach out to me. I’m happy to have a more in-depth conversation and work with you to achieve your real estate goals.&nbsp;
