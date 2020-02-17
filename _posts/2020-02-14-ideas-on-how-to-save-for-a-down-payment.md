@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ideas on How to Save for a Down Payment
-date: 2020-02-14 15:19:32
+date: 2020-02-14 15:19:00
 tags:
 excerpt: >-
   Today I’m offering some suggestions on how to budget better and save more for
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/downpayment-yt.jpg
-youtube_code: jV5qWMg-jxQ
+youtube_code: b69RuDivXtI
 ---
 
 {% include youtube.html %}
