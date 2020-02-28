@@ -42,3 +42,7 @@ Here are some points to help you start thinking about ways you can save your mon
 **10\. Save your tax refund.** It’s that time of year again to enjoy a nice refund, but don’t be persuaded to spend that money right away. Put it into savings toward your home.&nbsp;
 
 As always, if you have any questions about the home buying process, please reach out to me. I’m happy to have a more in-depth conversation and work with you to achieve your real estate goals.&nbsp;
+
+\*Terms and conditions apply.
+
+![](/uploads/betsy-with-usp-1.jpg){: width="1004" height="285"}
