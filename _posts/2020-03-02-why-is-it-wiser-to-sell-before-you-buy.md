@@ -39,3 +39,5 @@ Today I want to discuss why it may be wiser to sell your current home before buy
 6:50 : Wrapping up today’s topic
 
 **We at the Birdsong Group have a ton of experience buying and selling homes**, and we’d love to help you. Reach out to us by phone or email if you have any questions or require our expertise. We look forward to hearing from you.
+
+![](/uploads/birdsong-disclaimer.jpg){: width="1004" height="285"}
