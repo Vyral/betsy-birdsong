@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   I’m sharing why it may be wiser to sell your current home before you buy
   another.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Betsy+Birdsong/Why+Is+It+Wiser+to+Sell+Before+You+Buy_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
