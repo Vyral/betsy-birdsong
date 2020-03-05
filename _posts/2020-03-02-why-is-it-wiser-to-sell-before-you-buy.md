@@ -20,7 +20,7 @@ youtube_code: 92MjbSS6_dc
 
 {% include youtube.html %}
 
-*I’m sharing why it may be wiser to sell your current home before you buy another.*
+<p style="text-align:center"><em>I’m sharing why it may be wiser to sell your current home before you buy another.</em></p>
 
 Today I want to discuss why it may be wiser to sell your current home before buying a new one. If you own a house and you’re ready to move to another, one of the most crucial questions to consider is whether to sell your current property first. There are many reasons why the majority of homeowners sell before they buy, and I’m laying them all out for you.
 
