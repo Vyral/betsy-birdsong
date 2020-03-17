@@ -22,7 +22,7 @@ youtube_code: PXYpIJcXQpw
 
 {% include youtube.html %}
 
-*Some people have a hard time decluttering their home. Today I’m explaining Marie Kondo’s method to help you do just that.*
+<p style="text-align:center"><em>Some people have a hard time decluttering their home. Today I’m explaining Marie Kondo’s method to help you do just that.</em></p>
 
 Today’s blog message is for both buyers and sellers. How can you declutter your home forever? **The largest influencer right now is a woman named Marie Kondo,** a Japanese lifestyle celebrity and author. She helps people declutter their houses. What is her secret? She wants people to only keep items that “spark joy.”&nbsp;
 
