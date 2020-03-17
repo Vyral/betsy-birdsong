@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Declutter Your Home Forever
-date: 2020-03-17 19:08:59
+date: 2020-03-17 19:08:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -11,7 +11,7 @@ excerpt: >-
   Marie Kondo’s method to help you do just that.
 enclosure: 'https://vyralmarketing.s3.amazonaws.com/Betsy+Birdsong/2020/video+(2).mp4'
 pullquote: >-
-  eep things that spark joy, not items that have a small chance of coming in
+  Keep things that spark joy, not items that have a small chance of coming in
   handy.
 enclosure_type: video/mp4
 enclosure_time:
