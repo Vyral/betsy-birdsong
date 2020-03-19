@@ -22,7 +22,7 @@ youtube_code: PXYpIJcXQpw
 
 {% include youtube.html %}
 
-*Some people have a hard time decluttering their home. Today I’m explaining Marie Kondo’s method to help you do just that.*
+<p style="text-align:center"><em>Some people have a hard time decluttering their home. Today I’m explaining Marie Kondo’s method to help you do just that.</em></p>
 
 &nbsp;
 
