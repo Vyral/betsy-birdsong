@@ -22,7 +22,9 @@ youtube_code: PXYpIJcXQpw
 
 {% include youtube.html %}
 
-<center><em>Some people have a hard time decluttering their home. Today I’m explaining Marie Kondo’s method to help you do just that.</em></center>
+*Some people have a hard time decluttering their home. Today I’m explaining Marie Kondo’s method to help you do just that.*
+
+&nbsp;
 
 Today’s blog message is for both buyers and sellers. How can you declutter your home forever? **The largest influencer right now is a woman named Marie Kondo,** a Japanese lifestyle celebrity and author. She helps people declutter their houses. What is her secret? She wants people to only keep items that “spark joy.”&nbsp;
 
@@ -30,9 +32,9 @@ Kondo suggests sorting objects into five categories, beginning with clothing. Yo
 
 {% include pullquote.html %}
 
-What neither of us want you to do is keep things that *might* come in handy one day. Marie Kondo believes that if you truly need something, then the newer version of that object may bring a lot more joy down the road. I know people who make this mistake: They keep everything because it may be needed later**. According to Kondo, that is a horrible way to live.** Keep things that spark joy, not items that have a small chance of coming in handy.&nbsp;
+What neither of us wants you to do is keep things that *might* come in handy one day. Marie Kondo believes that if you truly need something, then the newer version of that object may bring a lot more joy down the road. I know people who make this mistake: They keep everything because it may be needed later**. According to Kondo, that is a horrible way to live.** Keep things that spark joy, not items that have a small chance of coming in handy.&nbsp;
 
-Remember to take this process slowly, don’t stress over it. If you’re considering selling your property, start this process soon—that way you’ll have the time to take it slowly. Do Marie Kondo’s process before you go buy storage bins or rent a storage space. This will bring more joy to your life, and if you’re selling, it will definitely help with that\!&nbsp;
+Remember to take this process slowly—don’t stress over it. If you’re considering selling your property, start this process soon—that way you’ll have the time to take it slowly. Enact Marie Kondo’s process before you go buy storage bins or rent a storage space. This will bring more joy to your life, and if you’re selling, it will definitely help with that\!&nbsp;
 
 Bonus: It’ll be a lot less stressful to pack up fewer items when you move. **Remember to look for things that spark joy in your life, not just objects in your home, but in every aspect of daily living.**&nbsp;
 
