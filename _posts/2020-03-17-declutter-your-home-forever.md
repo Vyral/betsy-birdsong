@@ -26,8 +26,6 @@ youtube_code: PXYpIJcXQpw
 
 &nbsp;
 
-&nbsp;
-
 Today’s blog message is for both buyers and sellers. How can you declutter your home forever? **The largest influencer right now is a woman named Marie Kondo,** a Japanese lifestyle celebrity and author. She helps people declutter their houses. What is her secret? She wants people to only keep items that “spark joy.”&nbsp;
 
 Kondo suggests sorting objects into five categories, beginning with clothing. You’ll touch each item of clothing that you own and think about whether it brings you joy. If it doesn’t, you get rid of it. After you’ve gone through all of your clothing, the next category to tackle is books, and you do the same thing with them. The other categories, in order, are papers, miscellaneous items (which includes kitchen things), and mementos. By the time you get to mementos, you’ll be an expert at the process.&nbsp;
