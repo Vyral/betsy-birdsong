@@ -22,7 +22,7 @@ youtube_code: PXYpIJcXQpw
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Some people have a hard time decluttering their home. Today I’m explaining Marie Kondo’s method to help you do just that.</em></p>
+*Some people have a hard time decluttering their home. Today I’m explaining Marie Kondo’s method to help you do just that.*
 
 &nbsp;
 
@@ -40,4 +40,4 @@ Bonus: It’ll be a lot less stressful to pack up fewer items when you move. **R
 
 If I or my team can help you in any way, please reach out to us via phone or email. Also, contact us if you have any questions. We look forward to helping you.&nbsp;
 
-&nbsp;
+![](/uploads/betsy-with-usp-1.jpg){: width="1004" height="285"}
