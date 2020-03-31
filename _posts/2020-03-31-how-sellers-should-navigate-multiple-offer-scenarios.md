@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Sellers Should Navigate Multiple-Offer Scenarios
-date: 2020-03-31 15:48:59
+date: 2020-03-31 15:48:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: iRsRXbQochM
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Price isn’t the only important part of a buyer’s offer. Here’s why you need to consider the act of sale and down payment, too.</em></p>
+*Price isn’t the only important part of a buyer’s offer. Here’s why you need to consider the act of sale and down payment, too.*
 
 Multiple-offer situations occur in our market whenever a house is correctly priced from the very beginning, which is why pricing is so critical.&nbsp;
 
@@ -38,3 +38,5 @@ How much money does the buyer plan on putting down for the loan? Many people ass
 Once the buyers submit their highest and best, we’ll lay those revised offers out for you and discuss the particulars of each. From there, you can either accept one buyer’s offer, or select a buyer to further negotiate with.&nbsp;
 
 If you have any questions about this or other real estate topics, or you’re interested in buying or selling soon, reach out to us by phone or email. I’d be happy to hear more about your unique situation.
+
+![](/uploads/birdsong-disclaimer.jpg){: width="1004" height="285"}
