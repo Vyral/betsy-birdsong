@@ -21,7 +21,7 @@ youtube_code: iRsRXbQochM
 
 {% include youtube.html %}
 
-*Price isn’t the only important part of a buyer’s offer. Here’s why you need to consider the act of sale and down payment, too.*
+<p style="text-align:center">Price isn’t the only important part of a buyer’s offer. Here’s why you need to consider the act of sale and down payment, too.</p>
 
 Multiple-offer situations occur in our market whenever a house is correctly priced from the very beginning, which is why pricing is so critical.&nbsp;
 
