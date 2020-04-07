@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/multipleoffers-yt-betsybirdsong.jpg
-youtube_code: iRsRXbQochM
+youtube_code: 6TZNRHJ6uWQ
 ---
 
 {% include youtube.html %}
