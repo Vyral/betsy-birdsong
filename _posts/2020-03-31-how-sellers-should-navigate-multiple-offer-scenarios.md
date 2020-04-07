@@ -23,7 +23,7 @@ youtube_code: 6TZNRHJ6uWQ
 
 <p style="text-align:center"><em>Price isn’t the only important part of a buyer’s offer. Here’s why you need to consider the act of sale and down payment, too.</em></p>
 
-Multiple-offer situations occur in our market whenever a house is correctly priced from the very beginning, which is why pricing is so critical.&nbsp;
+Multiple-offer situations may occur in our market when a house is correctly priced from the very beginning, which is why pricing is so critical.&nbsp;
 
 If you’re a seller faced with two or three offers on your property, how do you determine which one is best for you?&nbsp;
 
